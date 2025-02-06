@@ -1,4 +1,7 @@
 #!/bin/bash
-/root/holbertonschool-shell/basics'/n'
+$ ./0-current_working_directory
+/root/holbertonschool-shell/basics
+$'/n'
+
 
 
