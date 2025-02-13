@@ -1,7 +1,6 @@
-            <div align="center">
-  <img src="https://github.com/Boubouche1709/holbertonschool-shell/edit/main/permissions/README.md">
-</div>
+                                                       # SHELL PERMISSIONS
 
+                                                       
 # Source Code Management
 
 ## Table of Contents:
