@@ -104,5 +104,5 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Task
 0. Where am I?
-   Write a script that prints the absolute path name of the current working directory.
+  * Write a script that prints the absolute path name of the current working directory.
 
