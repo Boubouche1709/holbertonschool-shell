@@ -103,10 +103,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * Your answer files should only contain the command, and nothing else.
 
 ## Task
-### Install git:
-If git is not already installed on your terminal:
+0. Where am I?
+   Write a script that prints the absolute path name of the current working directory.
 
-```bash
-$ sudo apt-get update
-$ sudo apt-get upgrade
-$ sudo apt-get install git
