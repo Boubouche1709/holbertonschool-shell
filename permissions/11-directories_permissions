@@ -1,2 +1,2 @@
 #!/bin/bash
-type d chmod a+w
+type d chmod 111
